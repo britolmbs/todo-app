@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "src/louder.js",
+  "main": "src/loader.js",
   "scripts": {
    "dev": "nodemon",
    "production": "pm2 start src/loader.js --name todo-app"
